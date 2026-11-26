@@ -1,0 +1,6 @@
+{
+  "name": "HablaYa",
+  "description": "Practica conversaciones cotidianas en inglés con instrucciones en español, voz o texto, repaso espaciado y comparador de voces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
